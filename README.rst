@@ -1,3 +1,5 @@
+THIS FORK created to apply fix for python 3.8 running event loop problem
+
 asyncqt - asyncio + PyQt5/PySide2
 ======================
 
